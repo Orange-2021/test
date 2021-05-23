@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\X-Mode-1K更新程序\WindowsFormsApplication1\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\X-Mode-1K更新程序\WindowsFormsApplication1\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\X-Mode-1K更新程序\WindowsFormsApplication1\WindowsFormsApplication\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\X-Mode-1K更新程序\WindowsFormsApplication1\WindowsFormsApplication\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\X-Mode-1K更新程序\WindowsFormsApplication1\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\X-Mode-1K更新程序\WindowsFormsApplication1\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication1.XCOM.resources
+C:\Users\Administrator\Desktop\X-Mode-1K更新程序\WindowsFormsApplication1\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\X-Mode-1K更新程序\WindowsFormsApplication1\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
